@@ -21,3 +21,5 @@ const myfunction=function(){
 }
 console.log(typeof heros)
 
+//stack{primtive}   ,heap{non-primitive}
+
